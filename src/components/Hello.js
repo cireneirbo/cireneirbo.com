@@ -1,4 +1,3 @@
-import logo from '../logo.svg';
 import headshot from '../images/eric-headshot.jpg';
 import './Hello.css';
 
