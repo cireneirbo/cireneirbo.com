@@ -4,12 +4,12 @@ function Contact() {
     return (
         <article id="contact" className="wrapper style4">
 				<div className="container medium">
-					{/* <header>
+					<header>
 						<h2>Have me make stuff for you.</h2>
 						<p>Ornare nulla proin odio consequat sapien vestibulum ipsum.</p>
-					</header> */}
-					{/* <div className="row"> */}
-						{/* <div className="col-12">
+					</header>
+					<div className="row">
+						<div className="col-12">
 							<form method="post" action="#">
 								<div className="row">
 									<div className="col-6 col-12-small">
@@ -32,22 +32,22 @@ function Contact() {
 									</div>
 								</div>
 							</form>
-						</div> */}
+						</div>
 						<div className="col-12">
-							{/* <hr /> */}
+							<hr />
 							<h3>Find me on ...</h3>
 							<ul className="social">
 								<li><a href="#" className="icon brands fa-twitter"><span className="label">Twitter</span></a></li>
 								<li><a href="#" className="icon brands fa-facebook-f"><span className="label">Facebook</span></a></li>
 								<li><a href="#" className="icon brands fa-linkedin-in"><span className="label">LinkedIn</span></a></li>
-								<li><a href="#" className="icon brands fa-github"><span className="label">Github</span></a></li>
+								<li><a href="https://github.com/cireneirbo" className="icon brands fa-github"><span className="label">Github</span></a></li>
 							</ul>
 							<hr />
 						</div>
-					{/* </div> */}
+					</div>
 					<footer>
 						<ul id="copyright">
-							<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							<li>Website Maintained by <a href="https://github.com/cireneirbo/cireneirbo.com">Eric O'Brien</a></li>
 						</ul>
 					</footer>
 				</div>
