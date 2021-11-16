@@ -5,7 +5,11 @@ My personal portfolio website.
 * Personal projects
     * NodeJS emphasis
 * Open-source projects I contributed to
+    * buffy quote generator
 * Group projects I worked on
+    * Airwinfi
+    * Parseltongue
+    * discord-bot-of-hacktoberfest-2021
 * Organizations I support
     * EFF
     * FSF
