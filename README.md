@@ -4,6 +4,11 @@ My personal portfolio website.
 ## Featuring
 * Personal projects
     * NodeJS emphasis
+    * React JS projects
+    * Express projects
+    * Full-stack projects
+    * C# projects
+    * html/css/javascript projects
 * Open-source projects I contributed to
     * buffy quote generator
 * Group projects I worked on
@@ -15,6 +20,14 @@ My personal portfolio website.
     * FSF
     * LaunchCode
 * Hackathons I have completed
+   * Hacktoberfest 2021
+   * Hacktoberfest 2020
+   * Suncoast Developers' Guild June 2020
+* About me
+   * Technologies
+   * Interests
+   * Location
+   * Ways to reach me
 
 # Dependencies
 * [ReactJS](https://reactjs.org/) - React's official documentation.
