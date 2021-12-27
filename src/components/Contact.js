@@ -37,9 +37,8 @@ function Contact() {
 							<hr />
 							<h3>Find me on ...</h3>
 							<ul className="social">
-								<li><a href="#" className="icon brands fa-twitter"><span className="label">Twitter</span></a></li>
-								<li><a href="#" className="icon brands fa-facebook-f"><span className="label">Facebook</span></a></li>
-								<li><a href="#" className="icon brands fa-linkedin-in"><span className="label">LinkedIn</span></a></li>
+								<li><a href="https://twitter.com/kalefice" className="icon brands fa-twitter"><span className="label">Twitter</span></a></li>
+								<li><a href="https://www.linkedin.com/in/ericobrien89/" className="icon brands fa-linkedin-in"><span className="label">LinkedIn</span></a></li>
 								<li><a href="https://github.com/cireneirbo" className="icon brands fa-github"><span className="label">Github</span></a></li>
 							</ul>
 							<hr />
