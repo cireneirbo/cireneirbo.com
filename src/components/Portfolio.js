@@ -1,4 +1,3 @@
-import pic01 from '../images/pic01.jpg';
 import picPasswordMaker from '../images/password-maker-code.png';
 import picTMNT from '../images/tmnt-code.png';
 import picDiscordBot from '../images/discord-bot-code.png';
