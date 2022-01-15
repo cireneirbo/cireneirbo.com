@@ -22,6 +22,7 @@ My personal portfolio website.
 * Hackathons I have completed
    * Hacktoberfest 2021
    * Hacktoberfest 2020
+   * Rep.lit August 2020 Language Jam
    * Suncoast Developers' Guild June 2020
 * About me
    * Technologies
