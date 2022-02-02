@@ -5,8 +5,6 @@ import picAirwinfi from '../images/airwinfi-code.png';
 import picCireNeirboCom from '../images/cireneirbocom-code.png';
 import picEos from '../images/eos-code.png';
 
-import './Portfolio.css';
-
 function Portfolio() {
   return (
     <article id="portfolio" className="wrapper style3">

@@ -1,5 +1,3 @@
-import './About.css';
-
 function About() {
     return (
         <article id="work" className="wrapper style2">

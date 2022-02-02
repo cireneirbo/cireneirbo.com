@@ -1,5 +1,4 @@
 import headshot from '../images/eric-headshot.jpg';
-import './Hello.css';
 
 const aboutMeArr = [
   "Software Developer with a passion for learning and competing in hackathons.", 
@@ -18,10 +17,20 @@ function Hello() {
                 <span className="image fit"><img src={headshot} alt="" /></span>
             </div>
             <div className="col-8 col-7-large col-12-medium">
+              
               <header>
                 <h1>Hi. I'm <strong>Eric O'Brien</strong>.</h1>
               </header> 
-              <p>{aboutMeArr[0]} {aboutMeArr[1]} {aboutMeArr[2]} {aboutMeArr[3]}</p>
+
+              <ul>
+                {aboutMeArr.length > 0 &&
+                  aboutMeArr.map(line => (
+                    <li>{line}</li>
+                  ))
+                }
+              </ul>
+              
+              {/* <p>{aboutMeArr[0]} {aboutMeArr[1]} {aboutMeArr[2]} {aboutMeArr[3]}</p> */}
               <a href="#work" className="button large scrolly">Learn about what I do</a>
             </div>
           </div>
