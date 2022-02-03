@@ -11,21 +11,21 @@ function About() {
                         <section className="box style1">
                             <span className="icon featured fa-comments"></span>
                             <h3>Node.js</h3>
-                            <p>Ornare nulla proin odio consequat sapien vestibulum ipsum primis sed amet consequat lorem dolore.</p>
+                            {/* <p>Ornare nulla proin odio consequat sapien vestibulum ipsum primis sed amet consequat lorem dolore.</p> */}
                         </section>
                     </div>
                     <div className="col-4 col-6-medium col-12-small">
                         <section className="box style1">
                             <span className="icon solid featured fa-camera-retro"></span>
                             <h3>React.js</h3>
-                            <p>Ornare nulla proin odio consequat sapien vestibulum ipsum primis sed amet consequat lorem dolore.</p>
+                            {/* <p>Ornare nulla proin odio consequat sapien vestibulum ipsum primis sed amet consequat lorem dolore.</p> */}
                         </section>
                     </div>
                     <div className="col-4 col-6-medium col-12-small">
                         <section className="box style1">
                             <span className="icon featured fa-thumbs-up"></span>
                             <h3>Express.js</h3>
-                            <p>Ornare nulla proin odio consequat sapien vestibulum ipsum primis sed amet consequat lorem dolore.</p>
+                            {/* <p>Ornare nulla proin odio consequat sapien vestibulum ipsum primis sed amet consequat lorem dolore.</p> */}
                         </section>
                     </div>
                 </div>

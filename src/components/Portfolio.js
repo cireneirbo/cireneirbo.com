@@ -66,7 +66,7 @@ function Portfolio() {
             </div>
             <footer>
                 <p>Have something you want to talk about with me?</p>
-                <a href="#contact" className="button large scrolly">Get in touch with me</a>
+                <a href="https://linktr.ee/cireneirbo" className="button large scrolly">Get in touch with me</a>
             </footer>
         </div>
     </article>
