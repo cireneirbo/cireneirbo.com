@@ -1,5 +1,5 @@
 # cireneirbo.com
-My personal portfolio website.
+My personal portfolio website and developer's blog.
 
 ## Featuring
 * Personal projects
