@@ -1,3 +1,5 @@
+import Button from '../components/button/Button';
+
 function About() {
     return (
         <article id="work" className="wrapper style2">
@@ -31,7 +33,9 @@ function About() {
                 </div>
                 <footer>
                     <p>Curious what I make with these technologies?</p>
-                    <a href="#portfolio" className="button large scrolly">See some of my recent work</a>
+                    {/* <a href="#portfolio" className="button large scrolly">See some of my recent work</a> */}
+                    <Button className="button large scrolly" url="portfolio" text="See some of my recent work" />
+										{/* // ref={portfolio} */}
                 </footer>
             </div>
         </article>

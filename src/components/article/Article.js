@@ -1,4 +1,5 @@
-import './Article.css'
+import './Article.css';
+
 function Article(props) {
   return(
     <div className="col-4 col-6-medium col-12-small">

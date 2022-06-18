@@ -1,6 +1,6 @@
 import picPasswordMaker from '../assets/password-maker-code.png';
 import picTMNT from '../assets/tmnt-code.png';
-import picDiscordBot from '../assets/discord-bot-code.png';
+import picDiscordBot from '../assets/discord-bot-of-hacktoberfest-2021.png';
 import picAirwinfi from '../assets/airwinfi-code.png';
 import picCireNeirboCom from '../assets/cireneirbocom-code.png';
 import picEos from '../assets/eos-code.png';
@@ -35,7 +35,7 @@ function Portfolio() {
 					<Article 
 						aHref="https://github.com/cireneirbo/discord-bot-of-hacktoberfest-2021"
 						aImage={picDiscordBot}
-						aAlt="discord-bot-of-hacktoberfest-2021 code example."
+						aAlt="discord-bot-of-hacktoberfest-2021 project example."
 						title="discord-bot-of-hacktoberfest-2021"
 						description="A community-driven project for the 2021 Hacktoberfest hackathon."
 						technologies="Node.js, Discord.js"
