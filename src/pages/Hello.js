@@ -1,4 +1,4 @@
-import headshot from '../images/eric-headshot.jpg';
+import headshot from '../assets/eric-headshot.jpg';
 
 const aboutMeArr = [
   "Software Developer with a passion for learning and competing in hackathons.", 

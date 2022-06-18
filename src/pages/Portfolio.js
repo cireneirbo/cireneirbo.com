@@ -1,9 +1,11 @@
-import picPasswordMaker from '../images/password-maker-code.png';
-import picTMNT from '../images/tmnt-code.png';
-import picDiscordBot from '../images/discord-bot-code.png';
-import picAirwinfi from '../images/airwinfi-code.png';
-import picCireNeirboCom from '../images/cireneirbocom-code.png';
-import picEos from '../images/eos-code.png';
+import picPasswordMaker from '../assets/password-maker-code.png';
+import picTMNT from '../assets/tmnt-code.png';
+import picDiscordBot from '../assets/discord-bot-code.png';
+import picAirwinfi from '../assets/airwinfi-code.png';
+import picCireNeirboCom from '../assets/cireneirbocom-code.png';
+import picEos from '../assets/eos-code.png';
+import Footer from '../components/footer/Footer';
+import Article from '../components/article/Article';
 
 function Portfolio() {
   return (
@@ -22,6 +24,7 @@ function Portfolio() {
                         <p>Node.js, React.js, Express.js, REST API</p>
                     </article>
                 </div>
+                <Article />
                 <div className="col-4 col-6-medium col-12-small">
                     <article className="box style2">
                         <a href="https://github.com/cireneirbo/turtles-in-a-whole-shell" className="image featured"><img src={picTMNT} alt="" /></a>
@@ -64,10 +67,7 @@ function Portfolio() {
                     </article>
                 </div>
             </div>
-            <footer>
-                <p>Have something you want to talk about with me?</p>
-                <a href="https://linktr.ee/cireneirbo" className="button large scrolly">Get in touch with me</a>
-            </footer>
+            <Footer/>
         </div>
     </article>
   );
