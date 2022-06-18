@@ -7,7 +7,8 @@
 	--sixth-custom-color: #715156;
 	--seventh-custom-color: #353553;
 	--eigth-custom-color: #78AAE8;
-	--text-shadow-color: #757e9f;
+	--text-shadow-color: #342F45;
+	--headline-color: #757E9F;
 }
 
 html, body, div, span, applet, object,
@@ -77,6 +78,10 @@ input, select, textarea {
 
 #image-headshot:hover {
 	opacity: 0.6;
+}
+
+#headshot-div {
+	margin-bottom: 50px;
 }
 
 /* Basic */
@@ -218,6 +223,10 @@ input, select, textarea {
 		header > p {
 			font-size: 1.25em;
 			margin: 0;
+		}
+
+		header > h2 {
+			color: var(--headline-color);
 		}
 
 	footer {
@@ -1918,11 +1927,14 @@ input, select, textarea {
 /* Box */
 
 	.box {
-		background: var(--sixth-custom-color);
+		background: var(--fourth-custom-color);
 		box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.15), 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
 		text-align: center;
 		padding: 2em;
 	}
+		.box h2, h3 {
+			color: var(--headline-color);
+		}
 
 		.box.style1 {
 			padding: 3em 2em 3.5em 2em;
@@ -2014,7 +2026,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #715156;	
+			background-color: var(--third-custom-color);	
 		}
 
 		.wrapper.style3 h2, h3 {
