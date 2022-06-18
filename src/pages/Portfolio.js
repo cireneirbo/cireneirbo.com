@@ -1,4 +1,4 @@
-import picPasswordMaker from '../assets/password-maker-code.png';
+import picPasswordMaker from '../assets/password-maker.png';
 import picTMNT from '../assets/tmnt-code.png';
 import picDiscordBot from '../assets/discord-bot-of-hacktoberfest-2021.png';
 import picAirwinfi from '../assets/airwinfi-code.png';
@@ -18,6 +18,7 @@ function Portfolio() {
 				<div className="row">
 					<Article 
 						aHref="https://github.com/cireneirbo/Earth-Observation-System"
+						aHrefDemo="https://cireneirbo.github.io/password-maker/"
 						aImage={picEos}
 						aAlt="Earth Observation System code example."
 						title="Earth Observation System"
@@ -26,6 +27,7 @@ function Portfolio() {
 					/>
 					<Article 
 						aHref="https://github.com/cireneirbo/turtles-in-a-whole-shell"
+						aHrefDemo="https://cireneirbo.github.io/password-maker/"
 						aImage={picTMNT}
 						aAlt="Turtles In A Whole Shell code example."
 						title="Turtles In A Whole Shell"
@@ -33,7 +35,8 @@ function Portfolio() {
 						technologies="Node.js, Express.js"
 					/>
 					<Article 
-						aHref="https://github.com/cireneirbo/discord-bot-of-hacktoberfest-2021"
+						aHrefRepo="https://github.com/cireneirbo/discord-bot-of-hacktoberfest-2021"
+						aHrefDemo="https://cireneirbo.github.io/password-maker/"
 						aImage={picDiscordBot}
 						aAlt="discord-bot-of-hacktoberfest-2021 project example."
 						title="discord-bot-of-hacktoberfest-2021"
@@ -41,7 +44,8 @@ function Portfolio() {
 						technologies="Node.js, Discord.js"
 					/>
 					<Article 
-						aHref="https://github.com/cireneirbo/password-maker"
+						aHrefRepo="https://github.com/cireneirbo/password-maker"
+						aHrefDemo="https://cireneirbo.github.io/password-maker/"
 						aImage={picPasswordMaker}
 						aAlt="Password-Maker code example."
 						title="Password-Maker"
@@ -50,6 +54,7 @@ function Portfolio() {
 					/>
 					<Article 
 						aHref="https://github.com/cireneirbo/airwinfi"
+						aHrefDemo="https://cireneirbo.github.io/password-maker/"
 						aImage={picAirwinfi}
 						aAlt="Airwinfi code example."
 						title="Airwinfi"
@@ -58,6 +63,7 @@ function Portfolio() {
 					/>
 					<Article 
 						aHref="https://github.com/cireneirbo/cireneirbo.com"
+						aHrefDemo="https://cireneirbo.github.io/password-maker/"
 						aImage={picCireNeirboCom}
 						aAlt="cireneirbo.com code example."
 						title="cireneirbo.com"

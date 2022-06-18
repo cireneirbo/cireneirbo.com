@@ -1,3 +1,14 @@
+:root {
+  --first-custom-color: #342F45;
+	--second-custom-color: #706582;
+	--third-custom-color: #3B4064;
+	--fourth-custom-color: #33385D;
+	--fifth-custom-color: #474461;
+	--sixth-custom-color: #715156;
+	--seventh-custom-color: #353553;
+	--eigth-custom-color: #78AAE8;
+}
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -61,6 +72,10 @@ input, select, textarea {
 	-webkit-appearance: none;
 	-ms-appearance: none;
 	appearance: none;
+}
+
+#image-headshot:hover {
+	opacity: 0.6;
 }
 
 /* Basic */
@@ -1902,7 +1917,7 @@ input, select, textarea {
 /* Box */
 
 	.box {
-		background: #fff;
+		background: var(--sixth-custom-color);
 		box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.15), 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
 		text-align: center;
 		padding: 2em;
@@ -1986,17 +2001,22 @@ input, select, textarea {
 
 		.wrapper.style1 {
 			background-image: none;
-			background-color: #fff;
+			/* background-color: #fff; */
+			background-color: #706582;
 		}
 
 		.wrapper.style2 {
-			background-color: #fafafa;
-			text-shadow: 1px 1px 0px #fff;
+			/* background-color: #fafafa; */
+			background-color: #474461;
+			/* text-shadow: 1px 1px 0px #fff; */
+			text-shadow: 1px 1px 0px #706582;
 		}
 
 		.wrapper.style3 {
-			background-color: #f4f4f4;
-			text-shadow: 1px 1px 0px #fff;
+			/* background-color: #f4f4f4; */
+			background-color: #715156;
+			/* text-shadow: 1px 1px 0px #fff; */
+			text-shadow: 1px 1px 0px #706582;
 		}
 
 		.wrapper.style4 {
@@ -2006,7 +2026,8 @@ input, select, textarea {
 		}
 
 			.wrapper.style4 h1, .wrapper.style4 h2, .wrapper.style4 h3, .wrapper.style4 h4, .wrapper.style4 h5, .wrapper.style4 h6 {
-				color: #fff;
+				/* color: #fff; */
+				color: #706582;
 			}
 
 			.wrapper.style4 form input[type=text],

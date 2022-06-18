@@ -14,7 +14,7 @@ function Hello() {
         <div className="container">
           <div className="row">
             <div className="col-4 col-5-large col-12-medium">
-                <span className="image fit"><img src={headshot} alt="" /></span>
+                <span className="image fit"><img id="image-headshot" src={headshot} alt="" /></span>
             </div>
             <div className="col-8 col-7-large col-12-medium">
               

@@ -7,6 +7,7 @@ function Header() {
 
         <h2>Here is some stuff I made recently.</h2>
         <p>Click a title to snoop around in the corresponding GitHub repository.</p>
+        <p>Click an image to view the live demo.</p>
             
       </header>
     </div>
