@@ -4,7 +4,7 @@ function Contact() {
 				<div className="container medium">
 					<footer>
 						<ul id="copyright">
-							<li>Website Maintained by <a href="https://github.com/cireneirbo/cireneirbo.com">Eric O'Brien</a></li>
+							<li>Website Maintained by <a href="https://github.com/cireneirbo">Eric O'Brien</a></li>
 						</ul>
 					</footer>
 				</div>

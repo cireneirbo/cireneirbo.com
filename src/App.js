@@ -1,6 +1,6 @@
 import './App.css';
 // import Header from './components/Header';
-import Nav from './components/Nav';
+import Nav from './components/navigation/Nav';
 import Hello from './pages/Hello';
 import About from './pages/About';
 import Portfolio from './pages/Portfolio';
