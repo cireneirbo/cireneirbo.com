@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.51720f7b.chunk.css",
-    "main.js": "/static/js/main.9b799093.chunk.js",
-    "main.js.map": "/static/js/main.9b799093.chunk.js.map",
+    "main.css": "/static/css/main.d16f192b.chunk.css",
+    "main.js": "/static/js/main.237d2d49.chunk.js",
+    "main.js.map": "/static/js/main.237d2d49.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6ffc6629.js",
     "runtime-main.js.map": "/static/js/runtime-main.6ffc6629.js.map",
     "static/js/2.190aebf4.chunk.js": "/static/js/2.190aebf4.chunk.js",
     "static/js/2.190aebf4.chunk.js.map": "/static/js/2.190aebf4.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.51720f7b.chunk.css.map": "/static/css/main.51720f7b.chunk.css.map",
+    "static/css/main.d16f192b.chunk.css.map": "/static/css/main.d16f192b.chunk.css.map",
     "static/js/2.190aebf4.chunk.js.LICENSE.txt": "/static/js/2.190aebf4.chunk.js.LICENSE.txt",
     "static/media/airwinfi-code.40211bad.png": "/static/media/airwinfi-code.40211bad.png",
-    "static/media/discord-bot-code.ec8b0765.png": "/static/media/discord-bot-code.ec8b0765.png",
+    "static/media/discord-bot-of-hacktoberfest-2021.76852ac2.png": "/static/media/discord-bot-of-hacktoberfest-2021.76852ac2.png",
     "static/media/eos-code.a34428c9.png": "/static/media/eos-code.a34428c9.png",
     "static/media/eric-headshot.21233b96.jpg": "/static/media/eric-headshot.21233b96.jpg",
-    "static/media/password-maker-code.f930ae87.png": "/static/media/password-maker-code.f930ae87.png"
+    "static/media/password-maker.cf619a36.png": "/static/media/password-maker.cf619a36.png",
+    "static/media/uncommon-grounds-cafe.d46e77ba.png": "/static/media/uncommon-grounds-cafe.d46e77ba.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6ffc6629.js",
     "static/js/2.190aebf4.chunk.js",
-    "static/css/main.51720f7b.chunk.css",
-    "static/js/main.9b799093.chunk.js"
+    "static/css/main.d16f192b.chunk.css",
+    "static/js/main.237d2d49.chunk.js"
   ]
 }
