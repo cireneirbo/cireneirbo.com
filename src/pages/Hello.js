@@ -1,13 +1,17 @@
+/* Compnents*/
+import Button from '../components/button/Button';
+/* Assets */
 import headshot from '../assets/eric-headshot.jpg';
 
-const aboutMeArr = [
-  "Software Developer with a passion for learning and competing in hackathons.", 
-  "Vehement supporter of open-source software.", 
-  "Skilled in Node.js, REST APIs, React, TypeScript, C#, ASP.NET Core, Java, and Spring Boot.", 
-  "Has strong communication skills, leadership experience, and is a graduate of LaunchCode."
-];
-
 function Hello() {
+
+  const aboutMeArr = [
+    "Software Developer with a passion for learning and competing in hackathons.", 
+    "Vehement supporter of open-source software.", 
+    "Skilled in Node.js, REST APIs, React, TypeScript, C#, ASP.NET Core, Java, and Spring Boot.", 
+    "Has strong communication skills, leadership experience, and is a graduate of LaunchCode."
+  ];
+
   return (
     <div className="Hello">
       <article id="top" className="wrapper style1">
@@ -30,8 +34,8 @@ function Hello() {
                 }
               </ul>
               
-              {/* <p>{aboutMeArr[0]} {aboutMeArr[1]} {aboutMeArr[2]} {aboutMeArr[3]}</p> */}
-              <a href="#work" className="button large scrolly">Learn about what I do</a>
+              <Button className="button large scrolly" url="work" text="Learn about what I do" />
+              
             </div>
           </div>
         </div>

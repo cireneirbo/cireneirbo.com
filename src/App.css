@@ -9,6 +9,7 @@
 	--eigth-custom-color: #78AAE8;
 	--text-shadow-color: #342F45;
 	--headline-color: #757E9F;
+	--hello-li-color: #464646;
 }
 
 html, body, div, span, applet, object,
@@ -1770,6 +1771,7 @@ input, select, textarea {
 
 		ul li {
 			padding-left: 0.5em;
+			color: var(--hello-li-color);
 		}
 
 	ol {
