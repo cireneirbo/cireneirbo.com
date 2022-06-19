@@ -1625,9 +1625,9 @@ input, select, textarea {
 
 /* Section/Article */
 
-	section, article {
+	/* section, article {
 		margin-bottom: 3em;
-	}
+	} */
 
 	section > :last-child,
 	article > :last-child,
@@ -2018,6 +2018,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
+			background-image: none;
 			background-color: var(--first-custom-color);
 		}
 
