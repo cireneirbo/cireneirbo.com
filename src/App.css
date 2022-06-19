@@ -163,7 +163,8 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #3e3e3e;
+		/* color: #3e3e3e; */
+		color: var(--headline-color);
 		margin: 0 0 0.75em 0;
 	}
 

@@ -20,7 +20,8 @@ function Portfolio() {
 			aHrefDemo: "https://cireneirbo.github.io/password-maker/",
 			aImage: picEos,
 			description: "A system for alerting users to local and regional disasters using the NASA EONET API.",
-			technologies: "Node.js, React.js, Express.js, REST API"
+			technologies: "Node.js, React.js, Express.js, REST API",
+			developmentType: "Full-stack Website",
 		},
 		{
 			title: "Turtles In A Whole Shell",
@@ -28,7 +29,8 @@ function Portfolio() {
 			aHrefDemo: "https://cireneirbo.github.io/password-maker/",
 			aImage: picTMNT,
 			description: "An Express/React app that shows information about the Teenage Mutant Ninja Turtles on various web pages.",
-			technologies: "Node.js, Express.js"
+			technologies: "Node.js, Express.js",
+			developmentType: "Full-stack Website",
 		},
 		{
 			title: "discord-bot-of-hacktoberfest-2021",
@@ -36,7 +38,8 @@ function Portfolio() {
 			aHrefDemo: "https://cireneirbo.github.io/password-maker/",
 			aImage: picDiscordBot,
 			description: "A community-driven project for the 2021 Hacktoberfest hackathon.",
-			technologies: "Node.js, Discord.js"
+			technologies: "Node.js, Discord.js",
+			developmentType: "Discord Server Bot",
 		},
 		{
 			title: "Password-Maker",
@@ -44,7 +47,8 @@ function Portfolio() {
 			aHrefDemo: "https://cireneirbo.github.io/password-maker/",
 			aImage: picPasswordMaker,
 			description: "A website that creates a strong password for the user based on several user inputs.",
-			technologies: "ES6+"
+			technologies: "ES6+, HTML5, CSS3",
+			developmentType: "Front-end Website",
 		},
 		{
 			title: "Airwinfi",
@@ -52,7 +56,8 @@ function Portfolio() {
 			aHrefDemo: "https://cireneirbo.github.io/password-maker/",
 			aImage: picAirwinfi,
 			description: "A site that shows you where you can get free internet or internet paired with the cheapest menu item at the business.",
-			technologies: "Node.js, Express.js, REST API"
+			technologies: "Node.js, Express.js, REST API",
+			developmentType: "Back-end Website",
 		},
 		{
 			title: "Uncommon Grounds Cafe",
@@ -60,7 +65,8 @@ function Portfolio() {
 			aHrefDemo: "https://cireneirbo.github.io/uncommon-grounds-cafe/",
 			aImage: picUncommonGroundsCafe,
 			description: "A local coffee shop's mobile-friendly website.",
-			technologies: "Node.js, React.js, React-router"
+			technologies: "Node.js, React.js, React-router",
+			developmentType: "Front-end Website",
 		},
 		{
 			title: "cireneirbo.com",
@@ -68,7 +74,8 @@ function Portfolio() {
 			aHrefDemo: "https://www.cireneirbo.com/",
 			aImage: picCireNeirboCom,
 			description: "My personal portfolio website, which you happen to be viewing!",
-			technologies: "Node.js, React.js"
+			technologies: "Node.js, React.js",
+			developmentType: "Front-end Website",
 		},
 	];
 
@@ -89,6 +96,7 @@ function Portfolio() {
 						title={project.title}
 						description={project.description}
 						technologies={project.technologies}
+						developmentType={project.developmentType}
 						/>
 					)}
 
