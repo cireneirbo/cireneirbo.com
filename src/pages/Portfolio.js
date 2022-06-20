@@ -7,7 +7,7 @@ import picPasswordMaker from '../assets/password-maker.png';
 import picTMNT from '../assets/tmnt-code.png';
 import picDiscordBot from '../assets/discord-bot-of-hacktoberfest-2021.png';
 import picAirwinfi from '../assets/airwinfi-code.png';
-import picCireNeirboCom from '../assets/cireneirbocom-code.png';
+import picCireNeirboCom from '../assets/cireneirbo-dot-com.png';
 import picEos from '../assets/eos-code.png';
 import picUncommonGroundsCafe from '../assets/uncommon-grounds-cafe.png';
 

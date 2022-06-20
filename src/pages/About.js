@@ -22,7 +22,7 @@ function About() {
 	];
 	
 	return (
-		<article id="work" className="wrapper style2">
+		<article id="about" className="wrapper style2">
 			<div className="container">
 
 				<header>

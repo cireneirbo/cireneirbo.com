@@ -7,8 +7,8 @@ function Hello() {
 
   const aboutMeArr = [
     "Software Developer with a passion for learning and competing in hackathons.", 
-    "Vehement supporter of open-source software.", 
-    "Skilled in Node.js, REST APIs, React, TypeScript, C#, ASP.NET Core, Java, and Spring Boot.", 
+    "Believer in the importance of open-source software.", 
+    "Skilled in Node.js, REST APIs, React.js, Express.js, and MongoDB.", 
     "Has strong communication skills, leadership experience, and is a graduate of LaunchCode."
   ];
 
@@ -34,7 +34,7 @@ function Hello() {
                 }
               </ul>
               
-              <Button className="button large scrolly" url="work" text="Learn about what I do" />
+              <Button className="button large scrolly" url="about" text="Learn about what I do" />
               
             </div>
           </div>
