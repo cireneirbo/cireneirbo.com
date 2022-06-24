@@ -10,6 +10,8 @@
 	--text-shadow-color: #342F45;
 	--headline-color: #757E9F;
 	--hello-li-color: #464646;
+	--dark-headline-color: #404450;
+	--hello-text-color: #343435;
 }
 
 html, body, div, span, applet, object,
@@ -83,6 +85,14 @@ input, select, textarea {
 
 #headshot-div {
 	margin-bottom: 50px;
+}
+
+#helloHeadline {
+	color: var(--dark-headline-color);
+}
+
+.helloText {
+	color: var(--hello-text-color);
 }
 
 /* Basic */

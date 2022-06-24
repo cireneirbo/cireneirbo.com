@@ -23,13 +23,13 @@ function Hello() {
             <div className="col-8 col-7-large col-12-medium">
               
               <header>
-                <h1>Hi. I'm <strong>Eric O'Brien</strong>.</h1>
+                <h1 id="helloHeadline">Hi. I'm <strong>Eric O'Brien</strong>.</h1>
               </header> 
 
               <ul>
                 {aboutMeArr.length > 0 &&
                   aboutMeArr.map(line => (
-                    <li>{line}</li>
+                    <li className="helloText">{line}</li>
                   ))
                 }
               </ul>
