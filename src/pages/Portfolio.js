@@ -14,7 +14,7 @@ import picUncommonGroundsCafe from '../assets/uncommon-grounds-cafe.png';
 function Portfolio() {
 
 	const projects = [
-		{
+		/*{
 			title: "Earth Observation System",
 			aHrefRepo: "https://github.com/cireneirbo/Earth-Observation-System",
 			aHrefDemo: "https://cireneirbo.github.io/password-maker/",
@@ -40,7 +40,7 @@ function Portfolio() {
 			description: "A community-driven project for the 2021 Hacktoberfest hackathon.",
 			technologies: "Node.js, Discord.js",
 			developmentType: "Discord Server Bot",
-		},
+		},*/
 		{
 			title: "Password-Maker",
 			aHrefRepo: "https://github.com/cireneirbo/password-maker",
@@ -50,7 +50,7 @@ function Portfolio() {
 			technologies: "ES6+, HTML5, CSS3",
 			developmentType: "Front-end Website",
 		},
-		{
+		/*{
 			title: "Airwinfi",
 			aHrefRepo: "https://github.com/cireneirbo/airwinfi",
 			aHrefDemo: "https://cireneirbo.github.io/password-maker/",
@@ -58,7 +58,7 @@ function Portfolio() {
 			description: "A site that shows you where you can get free internet or internet paired with the cheapest menu item at the business.",
 			technologies: "Node.js, Express.js, REST API",
 			developmentType: "Back-end Website",
-		},
+		},*/
 		{
 			title: "Uncommon Grounds Cafe",
 			aHrefRepo: "https://github.com/cireneirbo/uncommon-grounds-cafe",
