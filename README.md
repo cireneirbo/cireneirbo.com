@@ -32,6 +32,9 @@ My personal portfolio website and developer's blog. Tailor it promote your freel
 
 # Dependencies
 * [ReactJS](https://reactjs.org/) - React's official documentation.
+* gh-pages
+* react-dom
+* react-scripts
 
 # Useful Links
 * [Hosting React on Github Pages](https://betterprogramming.pub/how-to-host-your-react-app-on-github-pages-for-free-919ad201a4cb) - Instructions to set up GitHub pages with React.
