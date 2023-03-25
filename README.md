@@ -15,6 +15,7 @@ My personal portfolio website and developer's blog. Tailor it promote your freel
     * Airwinfi
     * Parseltongue
     * discord-bot-of-hacktoberfest-2021
+    * Identi-flora-cation
 * Organizations I support
     * EFF
     * FSF
@@ -32,7 +33,7 @@ My personal portfolio website and developer's blog. Tailor it promote your freel
 
 # Dependencies
 * [ReactJS](https://reactjs.org/) - React's official documentation.
-* gh-pages
+* [gh-pages](https://www.npmjs.com/package/gh-pages) - npmjs.org's gh-pages library page.
 * react-dom
 * react-scripts
 
