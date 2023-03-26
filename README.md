@@ -1,5 +1,5 @@
 # cireneirbo.com
-My personal portfolio website and developer's blog. Tailor it promote your freelance work. CRUD necessary so you are not always working in project files just to post to it.
+My personal portfolio website and developer's blog.
 
 ## Featuring
 * Personal projects
