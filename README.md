@@ -27,6 +27,7 @@ My personal portfolio website and developer's blog.
    * Suncoast Developers' Guild June 2020
 * About me
    * Technologies
+   * Education
    * Interests
    * Location
    * Ways to reach me
